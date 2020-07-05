@@ -1,0 +1,5863 @@
+fileFormatVersion: 2
+guid: bc4e46cfba32ee846a3d63c488707dd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5384946370657425144
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_0
+  - first:
+      213: 8924057465876616056
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_1
+  - first:
+      213: 2080710135767198584
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_2
+  - first:
+      213: 7193609875010300061
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_3
+  - first:
+      213: -6921237280169758887
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_4
+  - first:
+      213: 4643329413960296340
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_5
+  - first:
+      213: -584065750875578304
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_6
+  - first:
+      213: -9186056034503249795
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_7
+  - first:
+      213: 9140650667782447062
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_8
+  - first:
+      213: -3683835124483472555
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_9
+  - first:
+      213: 8307402054748236696
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_10
+  - first:
+      213: -8386483075413098378
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_11
+  - first:
+      213: 2457440535873454039
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_12
+  - first:
+      213: -6227989220659286279
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_13
+  - first:
+      213: -2738302330991093981
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_14
+  - first:
+      213: -5035824505205594578
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_15
+  - first:
+      213: -1338754606364110915
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_16
+  - first:
+      213: 5675482140078287033
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_17
+  - first:
+      213: 1674687953968345869
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_18
+  - first:
+      213: 2040005388167967488
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_19
+  - first:
+      213: 3876646604008978543
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_20
+  - first:
+      213: -5494687648524212938
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_21
+  - first:
+      213: -6410799416060292806
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_22
+  - first:
+      213: -3764457147357311126
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_23
+  - first:
+      213: -3927191307920023801
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_24
+  - first:
+      213: 6589914509282714286
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_25
+  - first:
+      213: -6636694455795150723
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_26
+  - first:
+      213: -5320923035985421395
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_27
+  - first:
+      213: 3236605349710232512
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_28
+  - first:
+      213: 7816400768131967405
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_29
+  - first:
+      213: 6700422396064364312
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_30
+  - first:
+      213: 3982153500239472089
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_31
+  - first:
+      213: 2782244407481859551
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_32
+  - first:
+      213: -652841935176299921
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_33
+  - first:
+      213: -4663655126151940265
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_34
+  - first:
+      213: -9202045174039292217
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_35
+  - first:
+      213: -1126363910910802362
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_36
+  - first:
+      213: -1306435396403421445
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_37
+  - first:
+      213: 4370636432436613115
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_38
+  - first:
+      213: -1798538257188260982
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_39
+  - first:
+      213: -8552767673024595033
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_40
+  - first:
+      213: 1801501999251859887
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_41
+  - first:
+      213: -9151524460398102641
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_42
+  - first:
+      213: -3111043552704738731
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_43
+  - first:
+      213: 3002910395587671527
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_44
+  - first:
+      213: 8187781443005921375
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_45
+  - first:
+      213: -1527085609234025916
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_46
+  - first:
+      213: 755397067579317218
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_47
+  - first:
+      213: -3633458329519358396
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_48
+  - first:
+      213: 531308883018974110
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_49
+  - first:
+      213: -7685464976718242139
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_50
+  - first:
+      213: 5950099873407782096
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_51
+  - first:
+      213: 6537562830461164770
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_52
+  - first:
+      213: -3730218505741745163
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_53
+  - first:
+      213: -5181148291794999701
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_54
+  - first:
+      213: 1314680880971303140
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_55
+  - first:
+      213: -4178599112872538430
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_56
+  - first:
+      213: 4879915098632407697
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_57
+  - first:
+      213: 2419896507809963426
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_58
+  - first:
+      213: 6638619388453456825
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_59
+  - first:
+      213: 1163539096718667962
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_60
+  - first:
+      213: 135632776578112470
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_61
+  - first:
+      213: 2529022293873997494
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_62
+  - first:
+      213: -6197279171918589962
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_63
+  - first:
+      213: -4781880660182462439
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_64
+  - first:
+      213: -4032277827293598502
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_65
+  - first:
+      213: 955268639503676441
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_66
+  - first:
+      213: -4230359917285576405
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_67
+  - first:
+      213: 3562617011838267548
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_68
+  - first:
+      213: -6286367597681973845
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_69
+  - first:
+      213: -3353645353076838198
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_70
+  - first:
+      213: -193720332725050430
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_71
+  - first:
+      213: 6904135029816601674
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_72
+  - first:
+      213: 1091743163321266036
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_73
+  - first:
+      213: 3799614894227346694
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_74
+  - first:
+      213: 6842666547443004462
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_75
+  - first:
+      213: -7983298428491969239
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_76
+  - first:
+      213: -4065539310516722052
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_77
+  - first:
+      213: 532157195984173751
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_78
+  - first:
+      213: -6872811820400545917
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_79
+  - first:
+      213: 2712546302773419661
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_80
+  - first:
+      213: 1675702383521045520
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_81
+  - first:
+      213: -9023765499634577732
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_82
+  - first:
+      213: 2529900769561133210
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_83
+  - first:
+      213: 8064129430032856839
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_84
+  - first:
+      213: -5301639307922398776
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_85
+  - first:
+      213: -8340587138563858768
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_86
+  - first:
+      213: 1391936423806481276
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_87
+  - first:
+      213: -7965129791523311951
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_88
+  - first:
+      213: 128343896214029246
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_89
+  - first:
+      213: 6434011098267091639
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_90
+  - first:
+      213: -4186271682680180460
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_91
+  - first:
+      213: -7210160315816966314
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_92
+  - first:
+      213: 4760847825696263129
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_93
+  - first:
+      213: 7964367556435712166
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_94
+  - first:
+      213: 3995057448430484701
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_95
+  - first:
+      213: -4419216417167427246
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_96
+  - first:
+      213: 3492039933490629111
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_97
+  - first:
+      213: 7692398109965375092
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_98
+  - first:
+      213: -775434916776123437
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_99
+  - first:
+      213: 2623640283785998362
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_100
+  - first:
+      213: -743000492818492348
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_101
+  - first:
+      213: 6829584523077266097
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_102
+  - first:
+      213: -1785715286074778399
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_103
+  - first:
+      213: 2258131240707914597
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_104
+  - first:
+      213: -8323171200066354896
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_105
+  - first:
+      213: -5732193121361332143
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_106
+  - first:
+      213: 1581734254163858975
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_107
+  - first:
+      213: 4534088564679982345
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_108
+  - first:
+      213: 6879289308345468740
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_109
+  - first:
+      213: 4016643644132243652
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_110
+  - first:
+      213: 5517551717531430897
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_111
+  - first:
+      213: 2982347859070640225
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_112
+  - first:
+      213: 2857843648500849697
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_113
+  - first:
+      213: -3210943198253913170
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_114
+  - first:
+      213: -496073443957551502
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_115
+  - first:
+      213: -1257346002853369448
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_116
+  - first:
+      213: -5953012029965462818
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_117
+  - first:
+      213: 3176271277392225762
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_118
+  - first:
+      213: 4197964269973245155
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_119
+  - first:
+      213: -3424859818103224981
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_120
+  - first:
+      213: -9054166626570499010
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_121
+  - first:
+      213: -5444061435189152538
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_122
+  - first:
+      213: 8607230626367564059
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_123
+  - first:
+      213: -5145303218279722024
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_124
+  - first:
+      213: -896401732007115212
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_125
+  - first:
+      213: 5398244593346017234
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_126
+  - first:
+      213: -6043196300172456264
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_127
+  - first:
+      213: 3264542661229221386
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_128
+  - first:
+      213: 3091634624459715806
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_129
+  - first:
+      213: -8184389243630031654
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_130
+  - first:
+      213: 2581079272593304927
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_131
+  - first:
+      213: 5152590080326857975
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_132
+  - first:
+      213: 1898522489907080534
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_133
+  - first:
+      213: 4662164046429811534
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_134
+  - first:
+      213: 6593880916860730715
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_135
+  - first:
+      213: -2600114042540876210
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_136
+  - first:
+      213: 3947139532256767818
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_137
+  - first:
+      213: 2080958518238689892
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_138
+  - first:
+      213: 1494097284414816348
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_139
+  - first:
+      213: -7849953527473182807
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_140
+  - first:
+      213: 661066643285809934
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_141
+  - first:
+      213: -3865328367239006073
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_142
+  - first:
+      213: -5147042815557731783
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_143
+  - first:
+      213: -2144979782607731679
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_144
+  - first:
+      213: -4273697261357569289
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_145
+  - first:
+      213: 8967695516812737807
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_146
+  - first:
+      213: -5230085639487705388
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_147
+  - first:
+      213: -5553343312369683600
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_148
+  - first:
+      213: 8309603365957063901
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_149
+  - first:
+      213: 8779378283812130504
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_150
+  - first:
+      213: 7362901567394112964
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_151
+  - first:
+      213: -7374682172428413771
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_152
+  - first:
+      213: 7586468931011236508
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_153
+  - first:
+      213: -2368958278948648006
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_154
+  - first:
+      213: -8986770785075996808
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_155
+  - first:
+      213: -5840703559030362372
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_156
+  - first:
+      213: -4876969510947179039
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_157
+  - first:
+      213: 8216506169605708235
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_158
+  - first:
+      213: 245732210392856802
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_159
+  - first:
+      213: 934915894514927251
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_160
+  - first:
+      213: -1217340999251438484
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_161
+  - first:
+      213: 2051164857359426432
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_162
+  - first:
+      213: 9004778511976133986
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_163
+  - first:
+      213: 8334739210976541595
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_164
+  - first:
+      213: -4376978169549893183
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_165
+  - first:
+      213: -7133589559610243812
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_166
+  - first:
+      213: -28957024868943497
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_167
+  - first:
+      213: -3019434951438073183
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_168
+  - first:
+      213: -1775715841468872149
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_169
+  - first:
+      213: -816468541836430524
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_170
+  - first:
+      213: 1141888636414349681
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_171
+  - first:
+      213: -4280737770109081407
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_172
+  - first:
+      213: -6321992348537536199
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_173
+  - first:
+      213: -5069553371987862776
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_174
+  - first:
+      213: -4216551836616480468
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_175
+  - first:
+      213: 6142241288445140500
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_176
+  - first:
+      213: -1806524124178436717
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_177
+  - first:
+      213: -8455846551355214533
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_178
+  - first:
+      213: -5439772843882127784
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_179
+  - first:
+      213: -3053089328013511278
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_180
+  - first:
+      213: 4765513953998416957
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_181
+  - first:
+      213: 8403044563627273726
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_182
+  - first:
+      213: -7524276228941535894
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_183
+  - first:
+      213: 2676224374417069669
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_184
+  - first:
+      213: 7191455981020225909
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_185
+  - first:
+      213: 9119441286741968913
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_186
+  - first:
+      213: 4154882986655027701
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_187
+  - first:
+      213: -3934647142559791195
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_188
+  - first:
+      213: 1657750297840815428
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_189
+  - first:
+      213: -6958241826840822190
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_190
+  - first:
+      213: -7229537574119837684
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_191
+  - first:
+      213: -3875747353954238511
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_192
+  - first:
+      213: 2246967433696060134
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_193
+  - first:
+      213: -7177782520513537520
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_194
+  - first:
+      213: -2333982657680369507
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_195
+  - first:
+      213: -6474584616267578731
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_196
+  - first:
+      213: -6394618606802630278
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_197
+  - first:
+      213: -7637357635092327845
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_198
+  - first:
+      213: 7698647292278570064
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_199
+  - first:
+      213: -3948781878258120957
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_200
+  - first:
+      213: 6472033617211708055
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_201
+  - first:
+      213: 2056822005566031196
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_202
+  - first:
+      213: 6216925788310407429
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_203
+  - first:
+      213: -3375114328665350348
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_204
+  - first:
+      213: -6682740838396489188
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_205
+  - first:
+      213: 7497567993355553702
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_206
+  - first:
+      213: -4400679170079512012
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_207
+  - first:
+      213: -5297753278523081260
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_208
+  - first:
+      213: -6822083827230596685
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_209
+  - first:
+      213: 5152406560821762421
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_210
+  - first:
+      213: 7641616463874937380
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_211
+  - first:
+      213: -3518935891115951825
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_212
+  - first:
+      213: -139643128423910974
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_213
+  - first:
+      213: 4626306150808904683
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_214
+  - first:
+      213: -8431942753966974834
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_215
+  - first:
+      213: -2353041899358307383
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_216
+  - first:
+      213: -7007920696396596863
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_217
+  - first:
+      213: -1800425381845573713
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_218
+  - first:
+      213: -2792970812598806695
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_219
+  - first:
+      213: 2918632697527840436
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_220
+  - first:
+      213: -4247471167400000935
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_221
+  - first:
+      213: -8211087022603453524
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_222
+  - first:
+      213: -5150327403640628559
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_223
+  - first:
+      213: -5693924876333739556
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_224
+  - first:
+      213: 2992029456830683792
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_225
+  - first:
+      213: 3561814639608238768
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_226
+  - first:
+      213: -2601605846695862591
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_227
+  - first:
+      213: 2461319915743082319
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_228
+  - first:
+      213: 2658362782770188732
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_229
+  - first:
+      213: -1912169716518822756
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_230
+  - first:
+      213: -6404226586791227984
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_231
+  - first:
+      213: 2104628114439670074
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_232
+  - first:
+      213: 8080780420809033183
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_233
+  - first:
+      213: 4907167002748812110
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_234
+  - first:
+      213: 4216129803752430310
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_235
+  - first:
+      213: 7266661326107183183
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_236
+  - first:
+      213: -3044070167713149281
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_237
+  - first:
+      213: 7756190190787076409
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_238
+  - first:
+      213: 2398681554411384968
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_239
+  - first:
+      213: -5973486233220378392
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_240
+  - first:
+      213: 5199114756272629694
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_241
+  - first:
+      213: -5667444865208584694
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_242
+  - first:
+      213: 8846386130727329834
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_243
+  - first:
+      213: 3499819149016017290
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_244
+  - first:
+      213: -1789040782848765224
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_245
+  - first:
+      213: -4121002157163356970
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_246
+  - first:
+      213: -3519835291521172057
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_247
+  - first:
+      213: 1299535947130383181
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_248
+  - first:
+      213: 4098291194260653325
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_249
+  - first:
+      213: 7455077348139608282
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_250
+  - first:
+      213: 4508944062348789528
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_251
+  - first:
+      213: -4006118873429796473
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_252
+  - first:
+      213: -4257512033274125498
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_253
+  - first:
+      213: -1534922680374045949
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_254
+  - first:
+      213: 2911065027066075215
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_255
+  - first:
+      213: -5716659994769128437
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_256
+  - first:
+      213: -6333292530543842330
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_257
+  - first:
+      213: 2915481530740282776
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_258
+  - first:
+      213: -2315104122985814268
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_259
+  - first:
+      213: -6146636346609838236
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_260
+  - first:
+      213: -7602826018069114284
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_261
+  - first:
+      213: -8279267529311790109
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_262
+  - first:
+      213: 2119775097653607159
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_263
+  - first:
+      213: -592073779165522652
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_264
+  - first:
+      213: 5349671187091279916
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_265
+  - first:
+      213: -1346644393064836943
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_266
+  - first:
+      213: 3838707043953259554
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_267
+  - first:
+      213: -2355171695106478551
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_268
+  - first:
+      213: 4141140723105237863
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_269
+  - first:
+      213: 8591138187162355425
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_270
+  - first:
+      213: 5911716750726603031
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_271
+  - first:
+      213: -3944788891097193289
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_272
+  - first:
+      213: -6359962654126930448
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_273
+  - first:
+      213: 5183875111336604554
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_274
+  - first:
+      213: 475742986179237204
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_275
+  - first:
+      213: -4706942290161596395
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_276
+  - first:
+      213: -4002663701535517870
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_277
+  - first:
+      213: -287241802447452769
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_278
+  - first:
+      213: 6860095992800182997
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_279
+  - first:
+      213: 467444664090255770
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_280
+  - first:
+      213: -2379183408584015302
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_281
+  - first:
+      213: -7750221781477374633
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_282
+  - first:
+      213: 4406701653538900931
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_283
+  - first:
+      213: 5675113974427122316
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_284
+  - first:
+      213: 6746472808690553519
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_285
+  - first:
+      213: -4183377069500728123
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_286
+  - first:
+      213: -4343651916526485103
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_287
+  - first:
+      213: -5521675477605972327
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_288
+  - first:
+      213: 5193691048011692293
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_289
+  - first:
+      213: 6488868291140706935
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_290
+  - first:
+      213: -2311009234810667833
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_291
+  - first:
+      213: -769393356801333134
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_292
+  - first:
+      213: -9172820746649444351
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_293
+  - first:
+      213: -7967008776283163437
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_294
+  - first:
+      213: -1277980127078255802
+    second: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_295
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 656
+        width: 21
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3658137834afda44fb08860246cd888a
+      internalID: 2080710135767198584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 656
+        width: 22
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bd86a4ecccc714bbff9bb1e9ad0118
+      internalID: 7193609875010300061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 656
+        width: 23
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d1ed3bb5aed564fa334e24abbac146
+      internalID: -6921237280169758887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 656
+        width: 20
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaa6f19053ad164ebbacde6d9804067
+      internalID: 4643329413960296340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 656
+        width: 19
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d059cec15ddec664db83678d7ac56b4a
+      internalID: -584065750875578304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 656
+        width: 19
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cf5738d067b2a49b3134e9f7e2bb4a
+      internalID: -9186056034503249795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 656
+        width: 21
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021d5b5e5b51c7442abbe7ed619b559d
+      internalID: 9140650667782447062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 576
+        width: 19
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5bec76120dc5a4fa9710c920b8f8c3
+      internalID: -5494687648524212938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 576
+        width: 19
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57847ec4cc160134d8ccac389f86fd8f
+      internalID: -6410799416060292806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 576
+        width: 21
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a397cdf14b251ab44a5d86e947bbc804
+      internalID: -3764457147357311126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 576
+        width: 23
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70df6d5678926d94b811915c6ae806d6
+      internalID: -3927191307920023801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 576
+        width: 20
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634c416fa46d6294c9b5ceaaf96af774
+      internalID: 6589914509282714286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 576
+        width: 19
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7768a04676ac444683658588dce31fc
+      internalID: -6636694455795150723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 576
+        width: 19
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bd3ea5f537326469b0583ff1602727
+      internalID: -5320923035985421395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_28
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 576
+        width: 19
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee1d1a61e45d1d448b9483c3f632fb6
+      internalID: 3236605349710232512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 576
+        width: 21
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63e25d8282a42748974b2a174f9a0d8
+      internalID: 7816400768131967405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_30
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 576
+        width: 23
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f809774f01ec644953d4fd17a82bc1
+      internalID: 6700422396064364312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_31
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 576
+        width: 20
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff190edaa5bb0e42bb23634c920fd8f
+      internalID: 3982153500239472089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_32
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 576
+        width: 19
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21be27dcb6e33564d85f67a2e762a9b3
+      internalID: 2782244407481859551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 488
+        width: 20
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e894d690261b9214585581cf80b9c614
+      internalID: 532157195984173751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_79
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 488
+        width: 23
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f62ca6d3ada8a4083d783bc8ed22e8
+      internalID: -6872811820400545917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_80
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 488
+        width: 26
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdb508921090e649bcd48028f43c396
+      internalID: 2712546302773419661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_81
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 488
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b5a301f2beff447aef27169ed6a21d
+      internalID: 1675702383521045520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_82
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 488
+        width: 27
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6777684143d1c124594cad8c0afbb0ea
+      internalID: -9023765499634577732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_83
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 488
+        width: 27
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa9ec1074483b04b8859ff85c4e14eb
+      internalID: 2529900769561133210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 456
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519006aa30999b94fbe69aa54bb23d2a
+      internalID: 8064129430032856839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_85
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 456
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766c0e2dfdc9353449235200721a36ef
+      internalID: -5301639307922398776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 456
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d5680564978784abf40b54abd8ce6f
+      internalID: -8340587138563858768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_87
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 408
+        width: 31
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00cbd3d44dab324fb5d95cd1cb9f007
+      internalID: 1391936423806481276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_88
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 408
+        width: 29
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74df36446fba0dc498ecbc75aded3676
+      internalID: -7965129791523311951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_89
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 408
+        width: 26
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6982b7b6f7fa8074e90e05f7324ec188
+      internalID: 128343896214029246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_90
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 408
+        width: 22
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634139575a4ec3941802fd2cff67a101
+      internalID: 6434011098267091639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_91
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 408
+        width: 24
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a2056e21430584c84097fec5f2af96
+      internalID: -4186271682680180460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_92
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 408
+        width: 26
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a96da935496a746a750c797379f568
+      internalID: -7210160315816966314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_93
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 408
+        width: 28
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd558aaefaca76e449636e8f170fbe71
+      internalID: 4760847825696263129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_94
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 408
+        width: 26
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becbdb99093ff6e47937adac5045c44a
+      internalID: 7964367556435712166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_95
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 408
+        width: 24
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a289082ad50e2d64d846e045c51d3959
+      internalID: 3995057448430484701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_96
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 408
+        width: 22
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9daa31513fb41498734ad4ce7e79ec
+      internalID: -4419216417167427246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_97
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 408
+        width: 26
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b50cd01270f3c248871adabce1598f9
+      internalID: 3492039933490629111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_98
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 408
+        width: 29
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5657fb453bea3a640a94006e0a06bcc1
+      internalID: 7692398109965375092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_99
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 376
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32291569418267b4d96c9f621896c09d
+      internalID: -775434916776123437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_100
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 376
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f838c03439b0c4bab5ed977514a0f2
+      internalID: 2623640283785998362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_101
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 376
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed9204bd43d91b4381443283e9e32db
+      internalID: -743000492818492348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_102
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 376
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9bfec9b97a27f49b709726ca22cea7
+      internalID: 6829584523077266097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_103
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 376
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95beb4d422086dc4eae9d8fa0b3f2b10
+      internalID: -1785715286074778399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_104
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 373
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d7aa6f48e618f4ea106698ca59761e
+      internalID: 2258131240707914597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_105
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 328
+        width: 21
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d738d5664edc6924c84957d244d0f4e7
+      internalID: -8323171200066354896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_106
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 328
+        width: 21
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751d2287b3897f648957c16160b040ca
+      internalID: -5732193121361332143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_107
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 328
+        width: 21
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b3415f517f1dc48bc9f05d62dc3bcb
+      internalID: 1581734254163858975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_108
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 328
+        width: 20
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332fa7b7f4f58994cbe5f8b8992f5654
+      internalID: 4534088564679982345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_109
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 328
+        width: 21
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acf8a7371c012c48bbab4bae477ad6b
+      internalID: 6879289308345468740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_110
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 328
+        width: 21
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d32b47999ef590409b10221ccf4a20f
+      internalID: 4016643644132243652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_111
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 328
+        width: 21
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7b3a7121669c343b68489ed65a4fe2
+      internalID: 5517551717531430897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_112
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 328
+        width: 21
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51b40bf8bca463439dd4b55b1562713
+      internalID: 2982347859070640225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_113
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 296
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c4787b48d46984a8b45e4c0bd2fa2c
+      internalID: 2857843648500849697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_114
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 296
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625d37b5357c1ee4f934515f53546582
+      internalID: -3210943198253913170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_115
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 296
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3cb9436cf0223409e997d0c31580e1
+      internalID: -496073443957551502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_116
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 296
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb613f53859c2934fad11a39d0c71f4b
+      internalID: -1257346002853369448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_117
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 240
+        width: 23
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b117bad5e0bd400429e332a92951fff8
+      internalID: -5953012029965462818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_118
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 240
+        width: 23
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191bd0f656aa0e7449cda80380480c0c
+      internalID: 3176271277392225762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_119
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 240
+        width: 21
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf5b0e24fdf9024cacf93c3500387bb
+      internalID: 4197964269973245155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_120
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 240
+        width: 20
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2fa7f3e883c4d40ae886aff1eb6097
+      internalID: -3424859818103224981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_121
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 240
+        width: 19
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba36db1a51f3944e9b4f60e3d999d88
+      internalID: -9054166626570499010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_122
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 240
+        width: 20
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75537824da2451e41b5b7d608cc96403
+      internalID: -5444061435189152538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_123
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 240
+        width: 23
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b46005095a0344d99398129ea6f3d0
+      internalID: 8607230626367564059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_124
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 240
+        width: 21
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a8591e299f99340a1d6e3d307f2bcf
+      internalID: -5145303218279722024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_125
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 240
+        width: 25
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8fa17fcd15cc446ab3b06f95deabf3
+      internalID: -896401732007115212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_126
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 240
+        width: 23
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504863dd973e941459c2225570f1b3db
+      internalID: 5398244593346017234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_127
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 240
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64fb9735f4dbdf42847f53473eb8390
+      internalID: -6043196300172456264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_128
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 240
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1a83a6b45fcdb41836f20f78fc6d77
+      internalID: 3264542661229221386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_129
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8d7c7c3cccee342b9c148d07454005
+      internalID: 3091634624459715806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_130
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 240
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c57c9475899ab84082a4bf124def783
+      internalID: -8184389243630031654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_131
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 240
+        width: 34
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f60eaedc83e72441a5e470749abaab8
+      internalID: 2581079272593304927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_132
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 240
+        width: 36
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c405218ad42f8546a7101a79ff640b2
+      internalID: 5152590080326857975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_133
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 240
+        width: 34
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077aa962cf57bdb43b7839673ac61ce4
+      internalID: 1898522489907080534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_134
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 240
+        width: 33
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5a59e6d64f34f438d53422a5476749
+      internalID: 4662164046429811534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_135
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 240
+        width: 34
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4467ef05cc71f1e45b30359820cc3bbc
+      internalID: 6593880916860730715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_136
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 240
+        width: 33
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860f2671eb385194fa2c2cbbf0a62bc6
+      internalID: -2600114042540876210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_137
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 240
+        width: 34
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323ad66e84f4f3f469fd7ff9971d580c
+      internalID: 3947139532256767818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_143
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 208
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963f722f246f0ab4384e8505a0d1287d
+      internalID: -5147042815557731783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_144
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 208
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9661150bbbe46ba4fb266eda5d2a99fb
+      internalID: -2144979782607731679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_145
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 208
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4ae37de1ae7b14a95e3da168d1b398
+      internalID: -4273697261357569289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_146
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 208
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f7eeed43572e64084c06b0d75f268e
+      internalID: 8967695516812737807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_147
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 208
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11834e1ee9b75c943afe5cee5c96e334
+      internalID: -5230085639487705388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_148
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 205
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37516ec33ec3a494abc27d39911db4f6
+      internalID: -5553343312369683600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_149
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 162
+        width: 30
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59fc1a466b3a744c82d1d175259de68
+      internalID: 8309603365957063901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_150
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 27
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c1cc667a8fc9640ad5ef75623608bf
+      internalID: 8779378283812130504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_151
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 160
+        width: 22
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64fe1f9c36a6e04884b886b89e0a7db
+      internalID: 7362901567394112964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_152
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 160
+        width: 21
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308e2096a51c8e3489d6b20b8bd4efc5
+      internalID: -7374682172428413771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_153
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 160
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90f14b008bf78e4c9a2d0c4e65db3d0
+      internalID: 7586468931011236508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_154
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 160
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f5bd68cd21f6e40b2c41bcdbe6a7f3
+      internalID: -2368958278948648006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_155
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 160
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661135a3a2b43d14f8936c9850d5d43c
+      internalID: -8986770785075996808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_156
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 160
+        width: 20
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa3e27631eca6645b9b53694b05e566
+      internalID: -5840703559030362372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_157
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 160
+        width: 22
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3275007dd2035f4cbe38378484eab76
+      internalID: -4876969510947179039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_158
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 160
+        width: 26
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3727c41b5f3c09143977797e465f8a7d
+      internalID: 8216506169605708235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_159
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 128
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35672a16a9d89d458c32a0b78087d4f
+      internalID: 245732210392856802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_160
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4885de4087a621543ae8fb6d15b92587
+      internalID: 934915894514927251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_161
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 128
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9bd7e17ceb6c54cb5ff0c025f87ffa
+      internalID: -1217340999251438484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_162
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 128
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142bc9b4cdd2a59449a34ae75507d0c2
+      internalID: 2051164857359426432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_163
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 128
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481cc781297474d478d52fe06ef13949
+      internalID: 9004778511976133986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_164
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 128
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c5ab63f5a06744fb1f1b6a2c325886
+      internalID: 8334739210976541595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_165
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 128
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9f2230c83b51f4fac87ed4b4b7b8f7
+      internalID: -4376978169549893183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_166
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 22
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9aa55f2a079f744e8e289f1385f1e44
+      internalID: -7133589559610243812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_167
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea50f45132ec97a4790b17c799dad10f
+      internalID: -28957024868943497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_168
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 80
+        width: 25
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f9bb23587eb35428362253a918bcc3
+      internalID: -3019434951438073183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_169
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 80
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b885da504ab52f42a63fcc3b0075c7e
+      internalID: -1775715841468872149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_170
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 80
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c82644fb10ef04fa3c63dde63c64f9
+      internalID: -816468541836430524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_171
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 80
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c28eb92a6cba0a49a5d745e89d85c03
+      internalID: 1141888636414349681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_172
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 80
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea7b6889b29dc44db9820dbea4e2dd8
+      internalID: -4280737770109081407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_173
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 80
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19da8b474d0637d48915f7d496f3b4c0
+      internalID: -6321992348537536199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_174
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 80
+        width: 29
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0303450c290224e8c99182f2977213
+      internalID: -5069553371987862776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_175
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 80
+        width: 31
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aacbf4c2b2206c49be0ac2daff6c6dc
+      internalID: -4216551836616480468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_176
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 80
+        width: 32
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addd4c87167098c40be485928f672696
+      internalID: 6142241288445140500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_177
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 80
+        width: 33
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ced8761c87685f46abb57f8c66b9d6f
+      internalID: -1806524124178436717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_178
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 80
+        width: 34
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a695a73659d82534c8a0a3cd985e0ab6
+      internalID: -8455846551355214533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_179
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 80
+        width: 34
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adc49765b9c07c42b259c543711679d
+      internalID: -5439772843882127784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_180
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 80
+        width: 32
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d5988e2815f684dbd2b8e0831b2211
+      internalID: -3053089328013511278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_181
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 80
+        width: 30
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9ac3ed5be89604e8b4dbe86ae6ec7f
+      internalID: 4765513953998416957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_182
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 80
+        width: 28
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c2bc54b6c2205408f390311f7db3ea
+      internalID: 8403044563627273726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_183
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 80
+        width: 28
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a843a12305c49e47bff78e726ab9639
+      internalID: -7524276228941535894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_184
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 80
+        width: 29
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d3979e356b4454897182ac8750739b
+      internalID: 2676224374417069669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_185
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 80
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54771a5625d82454aa4c9089a0683584
+      internalID: 7191455981020225909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_186
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 80
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4db9c1ee4b68a24e8f6714c9a48a052
+      internalID: 9119441286741968913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_187
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 80
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f62fd23ce7e854d963aa7a86b07b91
+      internalID: 4154882986655027701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_188
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 80
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7be51b880ef0ba4fbf1f3566258494f
+      internalID: -3934647142559791195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_189
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 80
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b5638086487534ebd02151dbe27a83
+      internalID: 1657750297840815428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_190
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 80
+        width: 25
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e59db1a0d15d740a139366ca0b2628
+      internalID: -6958241826840822190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_191
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 80
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0529716f3dfab7745a079168ce7c334a
+      internalID: -7229537574119837684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_192
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 80
+        width: 21
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cba5630d637a0b4c878bf175d348374
+      internalID: -3875747353954238511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_193
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 56
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dffa29040d82a48b996ab7b3c3c426
+      internalID: 2246967433696060134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_194
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3780958d010714f999f762c4d97bc2
+      internalID: -7177782520513537520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_195
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7a1dd3a61d7f345ae5bce833e07d2f
+      internalID: -2333982657680369507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_196
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 56
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a35d48854d1ede4db3f9e81a9e73838
+      internalID: -6474584616267578731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_197
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 56
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac28856f77b0bb04b86062c1bde63920
+      internalID: -6394618606802630278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_198
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 56
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3217a88684c02aa4cbf613d05b20e656
+      internalID: -7637357635092327845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_199
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 56
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0ca198a47c6d14ba20bd153c4bca9b
+      internalID: 7698647292278570064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_200
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 56
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c9b705b5f4a514faab0c1bbc56c195
+      internalID: -3948781878258120957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_201
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 56
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d136d20fd4578418dc19ea0a29146f
+      internalID: 6472033617211708055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_202
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 56
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2936942febe1e284490e7e2773f38c8b
+      internalID: 2056822005566031196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_203
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 56
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047f0ec8ab6165949b5edda9a12964a6
+      internalID: 6216925788310407429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_204
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 56
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b2c445d81e370419c50c24d25dfcd0
+      internalID: -3375114328665350348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_205
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 56
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbd5e6f2de54e643aa6b6f8ea6e4a8a
+      internalID: -6682740838396489188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_206
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 56
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e121e9af0bc30164683e487722004a97
+      internalID: 7497567993355553702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_207
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 56
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d1fa0586013ae4e9e35fb25da60548
+      internalID: -4400679170079512012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_208
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 56
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906c0fc6595562d4bb63c62d65596b67
+      internalID: -5297753278523081260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_209
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 56
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e454ab2351f964aaf535e3dc3e446a
+      internalID: -6822083827230596685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_210
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 56
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3494f558620f9c34b9d02612664b1a80
+      internalID: 5152406560821762421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_211
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 56
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea3038a014c7884a9e97f5eba90ab41
+      internalID: 7641616463874937380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_212
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 56
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a555b6c1a039949ada7f0978641f14
+      internalID: -3518935891115951825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_213
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 56
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1187cdb8a780bd4397377e83b3c05e3
+      internalID: -139643128423910974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_214
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 53
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb17db21d82ef442871f5295077cec3
+      internalID: 4626306150808904683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_215
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 56
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e28313a31ae0834999814b8574d4054
+      internalID: -8431942753966974834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_216
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d052f2ebbe3ab479bcde04de9abd67
+      internalID: -2353041899358307383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_217
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 36
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a21c5e4f00eaf748997b1a13fd18fa6
+      internalID: -7007920696396596863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_218
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 36
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b752b5b91e783594b92efa38e7ce70d1
+      internalID: -1800425381845573713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_219
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 39
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3f099da8372c442b64be8dfdb6ef11
+      internalID: -2792970812598806695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_220
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 39
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7365e152d0f9247855242c039141fd
+      internalID: 2918632697527840436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_221
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 39
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b56d96af69170d40bef390de9db8109
+      internalID: -4247471167400000935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_222
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 36
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9874f17b42ef64b8150364ffe3fa59
+      internalID: -8211087022603453524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_223
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 39
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406f6979edc41664888d63809213009a
+      internalID: -5150327403640628559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_224
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 39
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46dbafa5ba3eec4b973f451a2b476fe
+      internalID: -5693924876333739556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_225
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 39
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed264ef7a719ca46a08c717f33a0f16
+      internalID: 2992029456830683792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_226
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 39
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbf571df5d2898488a03569f9a2a70d
+      internalID: 3561814639608238768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_227
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 39
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473047fda69dbe34197dcd635f2df8b5
+      internalID: -2601605846695862591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_228
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 39
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d176b5336f1548c4f9de6b5d3f4f800a
+      internalID: 2461319915743082319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_229
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 39
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311310025f4ad584f86738d6c5ba619f
+      internalID: 2658362782770188732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_230
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 39
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db0101104f44fd428b5738ab2a48326
+      internalID: -1912169716518822756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_231
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 39
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866d4afd23bf2074392a12218258bcfe
+      internalID: -6404226586791227984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_232
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 39
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ab2aba52e0dc14c9692103d38165e9
+      internalID: 2104628114439670074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_233
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 39
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611a7460e612d984b8f0e370a34903d7
+      internalID: 8080780420809033183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_234
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 39
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9723287606de4b419f45d081664382a
+      internalID: 4907167002748812110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_235
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 39
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e541106571d93642bac40f651b38ba8
+      internalID: 4216129803752430310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_236
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 39
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baf33ab5de677844a5f64167cc875f6
+      internalID: 7266661326107183183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_237
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 39
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc60318fbe7264344bd4098132ffedaa
+      internalID: -3044070167713149281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_238
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 23
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786389852e3abd64396aed2a8e73acb1
+      internalID: 7756190190787076409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_239
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 23
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed7b5c82b70dd6469273043ef13c6c8
+      internalID: 2398681554411384968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_240
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ac8a66e216d9f4cbce573a99c37991
+      internalID: -5973486233220378392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_241
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 23
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08143d120a786aa4798b5cd89dafe2f1
+      internalID: 5199114756272629694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_242
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 23
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dc9e6e812ad9342aae5d7e35b97d4c
+      internalID: -5667444865208584694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_243
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 23
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7cd61d1df8c4d4e83d495d901433fc
+      internalID: 8846386130727329834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_244
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 23
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee198d22579ad8429c4d6426d557d88
+      internalID: 3499819149016017290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_245
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 23
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e06ca30cd8c5a4eb44fe34f87e92b7
+      internalID: -1789040782848765224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_246
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 20
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa98fb67c01f004b80af10d63b9dbac
+      internalID: -4121002157163356970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_247
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 23
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b315bae0bdb93314bbc9cd35e0d1f85d
+      internalID: -3519835291521172057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_248
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 23
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b87c80303f46c4d82dc8f3888389b1
+      internalID: 1299535947130383181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_249
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 23
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7711b3f32089b0648be296fede442761
+      internalID: 4098291194260653325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_250
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 23
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa2d60ef77ebc64ab3fbca4d51e61c1
+      internalID: 7455077348139608282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_251
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c3dd0761d0fcd4f956ac7a4657f0be
+      internalID: 4508944062348789528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_252
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 6
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f38f21fe35b994fb192229b714f201
+      internalID: -4006118873429796473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_253
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 6
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd88a435bc28ce04c9ab977f0ec93b0d
+      internalID: -4257512033274125498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_254
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 6
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05401a93386621f4c8c6484fa5bd28cd
+      internalID: -1534922680374045949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_255
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 6
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3b361679aedfd4fb09090e4a3ec670
+      internalID: 2911065027066075215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_256
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 6
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69492af8a86b9a24684b892777b6a2e9
+      internalID: -5716659994769128437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_257
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a994daafa1574154881fdb763ebf3085
+      internalID: -6333292530543842330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_258
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc78de65890f2e64480f0d7ce7a0c611
+      internalID: 2915481530740282776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_259
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 6
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd9f9392f6fd4840aedf7c988989255
+      internalID: -2315104122985814268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_260
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 3
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdf0b9ec8d70d14a9dc91dde4c97359
+      internalID: -6146636346609838236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_261
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 6
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c3e31bf6bdfe44cb44d6e2a4e56f30
+      internalID: -7602826018069114284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_262
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 6
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4678de74b71e9af4cbf4aad1503352c1
+      internalID: -8279267529311790109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_263
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 3
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d36bb804349ad45ac3aa8eb5c0b86d
+      internalID: 2119775097653607159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_264
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 6
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2683fd78595f6a48ac5bcd39f883187
+      internalID: -592073779165522652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_265
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 6
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedad616c8ccf954cad3db0781bd54a4
+      internalID: 5349671187091279916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_266
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168a583ec8db38d43b700e1624b95a4e
+      internalID: -1346644393064836943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_267
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 6
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388360945e41bf64d99f13201a2f0652
+      internalID: 3838707043953259554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_268
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 6
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfb17ed663f1284eb08b3b1a5521079
+      internalID: -2355171695106478551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_269
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 6
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f0cfc07ecc1d549bcb16f5e98e5172
+      internalID: 4141140723105237863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_270
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 6
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c30cb3dde5aba1468124b90fde92316
+      internalID: 8591138187162355425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_271
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 6
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c9da3f2643fa84790f234929012e53
+      internalID: 5911716750726603031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_272
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 6
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe812403247da64490427675105fa01
+      internalID: -3944788891097193289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_273
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 6
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90ac5d669a570f4c88e7ffdef4286f5
+      internalID: -6359962654126930448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_274
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 6
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6031a369cf45c43b3d6dab1a551ed4
+      internalID: 5183875111336604554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_275
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 6
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11bf8c75d0fbaf4ca521da17c1a7057
+      internalID: 475742986179237204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_276
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 6
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100079366f8fa404c87c7274ee91b12f
+      internalID: -4706942290161596395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_277
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68abf9eed65ddcf4a8d2f385e8ba29de
+      internalID: -4002663701535517870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_278
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 6
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a033d69840319548ae52bb6044256eb
+      internalID: -287241802447452769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_279
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 6
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28a1b4766fcc8f47bb6b8bfae1b782e
+      internalID: 6860095992800182997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_280
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 6
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57ed9851ef651a4c89a5310541a0d15
+      internalID: 467444664090255770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_281
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 6
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b23b8fa268fee408878cb134263c45
+      internalID: -2379183408584015302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_282
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 6
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c059fe9bba40de43ae5cd988bf98a36
+      internalID: -7750221781477374633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_283
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 6
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91f36874d6de344bb2f4522b1a0ddaf
+      internalID: 4406701653538900931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_284
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 6
+        width: 17
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe1e2e7fb4226d4ca2c88068c16f9ea
+      internalID: 5675113974427122316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_285
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 6
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0016e6e267dba4187f90f8c845f6af
+      internalID: 6746472808690553519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_286
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 6
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d494eafdc86b9242b82145250e39153
+      internalID: -4183377069500728123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_287
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 6
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bc86583e359af40845d11be0a6229f
+      internalID: -4343651916526485103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_288
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 6
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b636ce822570f43ab089dec575b0d3
+      internalID: -5521675477605972327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_289
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 6
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22da9450b85faa94b98ae16d85bb4bb3
+      internalID: 5193691048011692293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_290
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 6
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c2a82ce81043247b925ecfbff1b149
+      internalID: 6488868291140706935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_291
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 6
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc6f37b51835704bb14f74c99c1a32c
+      internalID: -2311009234810667833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_292
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 6
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c00514d65516c4d9da2ed48a6f3605
+      internalID: -769393356801333134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_293
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f299778eba95fa448abe93320c0070f1
+      internalID: -9172820746649444351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_294
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 6
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6e6980c907e3b409e639bed8539215
+      internalID: -7967008776283163437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Zombie Survivor_295
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 6
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01345d76bfdebbb4cb196211d5dd5817
+      internalID: -1277980127078255802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
