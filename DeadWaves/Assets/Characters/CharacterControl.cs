@@ -10,7 +10,7 @@ namespace DeadWaves
         Rigidbody2D rb2D; //In case it ever changes to 3D movement someday
         CharacterInfo_Container character;
 
-        public LayerMask groundLayers;
+        //public LayerMask groundLayers;
 
         Vector2 groundPoint_2D, groundNormal_2D, normalAngle_2D;
         Vector2 jumpDir;
@@ -112,7 +112,7 @@ namespace DeadWaves
 
         //Called when the a collision is detected with the ground
         void SolveGround(GameObject groundObj, RaycastHit2D info) {
-            if (groundObj.layer != (groundObj.layer | (1 << groundLayers))) return;
+            //if (groundObj.layer != (groundObj.layer | (1 << groundLayers))) return;
 
             //groundNormal_2D = col.GetContact(0).normal;
             //groundPoint_2D = col.GetContact(0).point;
@@ -187,7 +187,7 @@ namespace DeadWaves
             Debug.DrawLine(groundPoint_2D, groundPoint_2D + groundNormal_2D, Color.red);
             Debug.DrawLine(groundPoint_2D, groundPoint_2D + (Get2D_GroundForwardDirection() * 2), Color.blue);
             Debug.DrawLine(groundPoint_2D, groundPoint_2D + normalAngle_2D * 2, Color.green);
-            contactDebug.position = groundPoint_2D;
+            if(contactDebug) contactDebug.position = groundPoint_2D;
         }
 
         public Transform contactDebug;
