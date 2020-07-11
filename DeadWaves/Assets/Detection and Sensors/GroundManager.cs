@@ -6,7 +6,7 @@ namespace DeadWaves
 {
     public class GroundManager : MonoBehaviour
     {
-        CharacterControl charControl;
+        public CharacterControl charControl;
         RaycastSensor[] allSensors;
         RaycastSensor currentValidSensor;
         RaycastHit2D currentValidGroundInfo;
@@ -27,7 +27,7 @@ namespace DeadWaves
         }
 
         void LoadCharControl() {
-            charControl = GetComponentInParent<CharacterControl>();
+            if(!charControl) charControl = GetComponentInParent<CharacterControl>();
         }
 
         void CallCharControlEvent() {

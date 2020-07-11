@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace DeadWaves
 {
-    [RequireComponent(typeof(CharacterInfo_Container))]
+    [RequireComponent(typeof(CharacterInfo_Container), typeof(Rigidbody2D))]
     public class CharacterControl : MonoBehaviour
     {
         Rigidbody2D rb2D; //In case it ever changes to 3D movement someday
