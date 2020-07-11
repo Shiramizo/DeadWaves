@@ -1,10 +1,13 @@
-﻿using System.Collections;
+﻿using Pathfinding;
+using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements;
 
 namespace DeadWaves
 {
+    [RequireComponent(typeof(Seeker))]
     public class KidBehaviour : CharacterBehaviour
     {
         public MouseButton input;

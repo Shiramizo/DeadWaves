@@ -136,7 +136,7 @@ namespace DeadWaves
                 currentWaypoint.y = transform.position.y;
             }
 
-            pathDebug.position = currentWaypoint;
+            if(pathDebug) pathDebug.position = currentWaypoint;
         }
     }
 
