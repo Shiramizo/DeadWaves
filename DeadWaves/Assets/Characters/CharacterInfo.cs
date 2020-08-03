@@ -12,6 +12,8 @@ public class CharacterInfo : ScriptableObject
     public AnimationCurve accelerationCurve;
     [Header("How fast it turns 180, in seconds")]
     public float turnSpeed;
+    [Header("Check this box if your character turns without a sprite animation")]
+    public bool turnWithoutAnimationSprite;
     [Header("How much the character can jump, in force (newtons I think)")]
     public float jumpForce;
     [Header("Used to define a minimum jump amount, in seconds")]

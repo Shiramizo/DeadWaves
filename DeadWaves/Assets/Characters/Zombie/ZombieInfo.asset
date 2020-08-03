@@ -10,35 +10,43 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 00b1e1d22f2abbd4594ebef6f99d2d1a, type: 3}
-  m_Name: KidInfo
+  m_Name: ZombieInfo
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 1
   accelerationCurve:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0.5
-      inSlope: 1
-      outSlope: 1
-      tangentMode: 34
+      value: 0
+      inSlope: 0.0068843756
+      outSlope: 0.0068843756
+      tangentMode: 0
       weightedMode: 0
       inWeight: 0
-      outWeight: 0.33333334
+      outWeight: 0.25785765
     - serializedVersion: 3
-      time: 0.5
+      time: 2
       value: 1
-      inSlope: 1
-      outSlope: 1
-      tangentMode: 34
+      inSlope: 1.3445704
+      outSlope: 1.3445704
+      tangentMode: 0
       weightedMode: 0
-      inWeight: 0.33333334
+      inWeight: 0.08738893
       outWeight: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  turnSpeed: 0.2
-  turnWithoutAnimationSprite: 1
-  jumpForce: 3
-  minimumJumpTime: 0.1
-  characterDescription: This character can Idle, Run, Jump and Die
+  turnSpeed: 2.75
+  turnWithoutAnimationSprite: 0
+  jumpForce: 0
+  minimumJumpTime: 0
+  characterDescription: 'Idle
+
+    Walk
+
+    Attack
+
+    Turn 180 with animation
+
+    Die'

@@ -19,8 +19,8 @@ namespace DeadWaves
         float accelTime;
         float jumpTime;
 
+        public bool isTurning { get; protected set; }
         bool isMoving;
-        bool isTurning;
         bool isGrounded;
         bool moveCommandGiven;
         bool cueStopJump;
@@ -154,7 +154,7 @@ namespace DeadWaves
 
             isTurning = true;
             while (t <= timer) {
-                eulers.y = Mathf.Lerp(start, end, t / timer);
+                eulers.y = character.info.turnWithoutAnimationSprite == true? Mathf.Lerp(start, end, t / timer) : end;
                 t += Time.deltaTime;
                 RotateChar(eulers);
                 yield return null;
@@ -180,6 +180,8 @@ namespace DeadWaves
         private void Update() {
             //Debug
             DrawStuff();
+
+            if (isTurning) print($"{gameObject.name} is turning");
         }
 
         //Debug

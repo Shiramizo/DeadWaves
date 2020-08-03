@@ -14,8 +14,8 @@ namespace DeadWaves
 
         //General info --------------------------------------------------------------------------
         #region General Info
-        
-        public CharacterInfo TryGetCharacterInfo () {
+
+        public CharacterInfo TryGetCharacterInfo() {
             //This is a miguezao to make a character description available in the behaviour script, just to be a little more organized, because fuck me
             CharacterInfo_Container container = GetComponent<CharacterInfo_Container>();
             if (!container) return null;
@@ -129,14 +129,21 @@ namespace DeadWaves
             //Animation ------------------------------------
             if (!_anim) _anim = GetComponentInChildren<Animator>();
         }
-
+        public Animator anim2;
         protected virtual void Update() {
             //Pathfinding -------------------------------------
             if (path != null) {
                 currentWaypoint.y = transform.position.y;
             }
 
-            if(pathDebug) pathDebug.position = currentWaypoint;
+            if (pathDebug) pathDebug.position = currentWaypoint;
+
+            bool isTurn = Input.GetKeyDown(KeyCode.Z);
+
+            if (isTurn && !charController.isTurning) {
+                charController.Turn180_2D();
+                if (anim2) anim2.SetTrigger("isTurn");
+            }
         }
     }
 

@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 3984bc1985bda1441bd26fbf8347f7be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2161825352886423062
+    second: Heroes of Might and Magic 2 - Zombie_0
+  - first:
+      213: 3794642136701433484
+    second: Heroes of Might and Magic 2 - Zombie_1
+  - first:
+      213: -6726376437626192293
+    second: Heroes of Might and Magic 2 - Zombie_2
+  - first:
+      213: -8674843168717213644
+    second: Heroes of Might and Magic 2 - Zombie_3
+  - first:
+      213: 94575937485462491
+    second: Heroes of Might and Magic 2 - Zombie_4
+  - first:
+      213: 6419936580935183149
+    second: Heroes of Might and Magic 2 - Zombie_5
+  - first:
+      213: 941493463448404874
+    second: Heroes of Might and Magic 2 - Zombie_6
+  - first:
+      213: 3973384833486366455
+    second: Heroes of Might and Magic 2 - Zombie_7
+  - first:
+      213: 2465774190473931061
+    second: Heroes of Might and Magic 2 - Zombie_8
+  - first:
+      213: -5662997400349851150
+    second: Heroes of Might and Magic 2 - Zombie_9
+  - first:
+      213: 7304238981246944256
+    second: Heroes of Might and Magic 2 - Zombie_10
+  - first:
+      213: -2585781557160640206
+    second: Heroes of Might and Magic 2 - Zombie_11
+  - first:
+      213: -6347676618438593722
+    second: Heroes of Might and Magic 2 - Zombie_12
+  - first:
+      213: -3468621023563541681
+    second: Heroes of Might and Magic 2 - Zombie_13
+  - first:
+      213: 663174444815478369
+    second: Heroes of Might and Magic 2 - Zombie_14
+  - first:
+      213: -5504233085476138143
+    second: Heroes of Might and Magic 2 - Zombie_15
+  - first:
+      213: 8530756159007731802
+    second: Heroes of Might and Magic 2 - Zombie_16
+  - first:
+      213: -4769998276318141790
+    second: Heroes of Might and Magic 2 - Zombie_17
+  - first:
+      213: 8677487661370515977
+    second: Heroes of Might and Magic 2 - Zombie_18
+  - first:
+      213: -120298627093859865
+    second: Heroes of Might and Magic 2 - Zombie_19
+  - first:
+      213: 2867164226995938941
+    second: Heroes of Might and Magic 2 - Zombie_20
+  - first:
+      213: -8256515765663202792
+    second: Heroes of Might and Magic 2 - Zombie_21
+  - first:
+      213: -4780892174995395825
+    second: Heroes of Might and Magic 2 - Zombie_22
+  - first:
+      213: -1125811271146799463
+    second: Heroes of Might and Magic 2 - Zombie_23
+  - first:
+      213: 4322220195137532825
+    second: Heroes of Might and Magic 2 - Zombie_24
+  - first:
+      213: 6878894342760604069
+    second: Heroes of Might and Magic 2 - Zombie_25
+  - first:
+      213: -265886726742106389
+    second: Heroes of Might and Magic 2 - Zombie_26
+  - first:
+      213: 661559543866559430
+    second: Heroes of Might and Magic 2 - Zombie_27
+  - first:
+      213: 140135939119982251
+    second: Heroes of Might and Magic 2 - Zombie_28
+  - first:
+      213: -549020070601203854
+    second: Heroes of Might and Magic 2 - Zombie_29
+  - first:
+      213: 8390465639422568970
+    second: Heroes of Might and Magic 2 - Zombie_30
+  - first:
+      213: -7051622672134482840
+    second: Heroes of Might and Magic 2 - Zombie_31
+  - first:
+      213: 2063366565199806920
+    second: Heroes of Might and Magic 2 - Zombie_32
+  - first:
+      213: 6414319445376857094
+    second: Heroes of Might and Magic 2 - Zombie_33
+  - first:
+      213: -5606575592173447146
+    second: Heroes of Might and Magic 2 - Zombie_34
+  - first:
+      213: 5972211730114097840
+    second: Heroes of Might and Magic 2 - Zombie_35
+  - first:
+      213: -1040631422418446278
+    second: Heroes of Might and Magic 2 - Zombie_36
+  - first:
+      213: 7116684079350457699
+    second: Heroes of Might and Magic 2 - Zombie_37
+  - first:
+      213: -3766638606305938631
+    second: Heroes of Might and Magic 2 - Zombie_38
+  - first:
+      213: 8154559916624586551
+    second: Heroes of Might and Magic 2 - Zombie_39
+  - first:
+      213: 7299331200757332827
+    second: Heroes of Might and Magic 2 - Zombie_40
+  - first:
+      213: -2661388190726975230
+    second: Heroes of Might and Magic 2 - Zombie_41
+  - first:
+      213: 1353334408569823911
+    second: Heroes of Might and Magic 2 - Zombie_42
+  - first:
+      213: -1932649935066358239
+    second: Heroes of Might and Magic 2 - Zombie_43
+  - first:
+      213: -4366693776285871130
+    second: Heroes of Might and Magic 2 - Zombie_44
+  - first:
+      213: 6670159893682113166
+    second: Heroes of Might and Magic 2 - Zombie_45
+  - first:
+      213: -4558587255861972846
+    second: Heroes of Might and Magic 2 - Zombie_46
+  - first:
+      213: 3525235257705889855
+    second: Heroes of Might and Magic 2 - Zombie_47
+  - first:
+      213: 134068851876332941
+    second: Heroes of Might and Magic 2 - Zombie_48
+  - first:
+      213: 277965568550188495
+    second: Heroes of Might and Magic 2 - Zombie_49
+  - first:
+      213: 5380561651816929260
+    second: Heroes of Might and Magic 2 - Zombie_50
+  - first:
+      213: -3690181214074767699
+    second: Heroes of Might and Magic 2 - Zombie_51
+  - first:
+      213: 931044373456155955
+    second: Heroes of Might and Magic 2 - Zombie_52
+  - first:
+      213: 8304692810680068535
+    second: Heroes of Might and Magic 2 - Zombie_53
+  - first:
+      213: -8011030063629888830
+    second: Heroes of Might and Magic 2 - Zombie_54
+  - first:
+      213: 5825264882920514517
+    second: Heroes of Might and Magic 2 - Zombie_55
+  - first:
+      213: -6004924697563644251
+    second: Heroes of Might and Magic 2 - Zombie_56
+  - first:
+      213: 2924681221474453989
+    second: Heroes of Might and Magic 2 - Zombie_57
+  - first:
+      213: -8332361039925002901
+    second: Heroes of Might and Magic 2 - Zombie_58
+  - first:
+      213: 2694405058788605939
+    second: Heroes of Might and Magic 2 - Zombie_59
+  - first:
+      213: -3450217040236791876
+    second: Heroes of Might and Magic 2 - Zombie_60
+  - first:
+      213: -7140704122382802951
+    second: Heroes of Might and Magic 2 - Zombie_61
+  - first:
+      213: 8192902264611722738
+    second: Heroes of Might and Magic 2 - Zombie_62
+  - first:
+      213: -1012694029546601308
+    second: Heroes of Might and Magic 2 - Zombie_63
+  - first:
+      213: -570670084544113013
+    second: Heroes of Might and Magic 2 - Zombie_64
+  - first:
+      213: 20668021803414813
+    second: Heroes of Might and Magic 2 - Zombie_65
+  - first:
+      213: 4054856984034033432
+    second: Heroes of Might and Magic 2 - Zombie_66
+  - first:
+      213: -2293270588485215327
+    second: Heroes of Might and Magic 2 - Zombie_67
+  - first:
+      213: -3749763592619474100
+    second: Heroes of Might and Magic 2 - Zombie_68
+  - first:
+      213: 6563461159758215052
+    second: Heroes of Might and Magic 2 - Zombie_69
+  - first:
+      213: -5831610445162645534
+    second: Heroes of Might and Magic 2 - Zombie_70
+  - first:
+      213: -8683161765533909253
+    second: Heroes of Might and Magic 2 - Zombie_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
